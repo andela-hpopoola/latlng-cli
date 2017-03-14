@@ -1,0 +1,26 @@
+{
+  "name": "latlng-cli",
+  "version": "1.0.0",
+  "description": "LATLNG - To get the latitude and longitude of any location",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harunapopoola/latlng-cli.git"
+  },
+  "author": "Haruna Popoola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harunapopoola/latlng-cli/issues"
+  },
+  "homepage": "https://github.com/harunapopoola/latlng-cli#readme",
+  "dependencies": {
+    "request": "^2.73.0",
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.3"
+  }
+}
